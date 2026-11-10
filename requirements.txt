@@ -1,0 +1,13 @@
+torch
+braindecode==1.5.1
+pennylane==0.45.1
+numpy
+scipy
+pandas
+scikit-learn
+mne
+moabb
+pyriemann
+joblib
+huggingface_hub>=0.34,<2
+safetensors>=0.4.5
