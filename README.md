@@ -1,4 +1,4 @@
-# MVQAN-CORAL: baseline and branch-ablation experiments
+# MVQAN-CORAL
 
 This package contains the experiment implementation (`run_experiments.py`), its dependencies (`requirements.txt`), and these instructions.
 
